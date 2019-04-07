@@ -1,4 +1,4 @@
-Bash Shell Cheatsheet #BMR
+Bash Shell Cheatsheet
 =====================
 The main topics of this cheatsheet include an intro to the shell, navigating around the shell, common commands, environment variables, connectors, piping, I/O redirection, permissions, and keyboard shortcuts.
 ## Introduction to the Shell
